@@ -39,7 +39,7 @@ JWT_SECRET=your_secret_key
 ```bash
 npm install
 npm i express
-npm i 
+npm i ejs
 ```
 
 #### 5. **Start the server**
